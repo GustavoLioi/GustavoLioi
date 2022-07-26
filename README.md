@@ -23,3 +23,4 @@
  
   [Snake animation](https://github.com/GustavoLioi/Gustavolioi/blob/output/github-contribution-grid-snake.svg)
 
+</div>
